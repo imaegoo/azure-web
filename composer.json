@@ -1,0 +1,16 @@
+{
+    "name": "imaegoo/azure",
+    "description": "Azure test environment for iMaeGoo.",
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "iMaeGoo",
+            "email": "mail1st@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "defuse/php-encryption": "~2.0"
+    }
+}
